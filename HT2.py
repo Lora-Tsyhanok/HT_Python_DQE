@@ -3,7 +3,7 @@ import string
 
 # create a list of random number of dicts (from 2 to 10)
 rand_dicts = []
-rand_num = random.randint(2, 3)
+rand_num = random.randint(2, 10)
 
 
 for i in range(rand_num):
